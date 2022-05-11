@@ -69,8 +69,6 @@
             <artifactId>log4j-core</artifactId>
         </dependency>
 
-        <!--http://localhost:8002/swagger-ui.html-->
-        <!--http://localhost:8002/webjars/swagger-ui/index.html-->
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-webflux-ui</artifactId>

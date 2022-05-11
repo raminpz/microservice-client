@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950bfdf4-9c2b-499b-9921-8f29c733ed98" name="Changes" comment="avance 2" />
+    <list default="true" id="950bfdf4-9c2b-499b-9921-8f29c733ed98" name="Changes" comment="avance 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/ClientUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/ClientUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/ClientUtilsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/ClientUtilsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/microserviclient/utilities/constants/Constants.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +93,11 @@
       <workItem from="1652108382430" duration="7706000" />
       <workItem from="1652129568178" duration="594000" />
       <workItem from="1652194663920" duration="413000" />
-      <workItem from="1652196025390" duration="2068000" />
+      <workItem from="1652196025390" duration="2123000" />
+      <workItem from="1652198465912" duration="1978000" />
+      <workItem from="1652211142267" duration="6527000" />
+      <workItem from="1652286939538" duration="562000" />
+      <workItem from="1652297782237" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="Avance project">
       <created>1650923091779</created>
